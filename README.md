@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anu
-- 👀 I’m interested in Web developemt and data science
+- 👀 I’m interested in Web developemt, AI and data science
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Django projects
 - 📫 How to reach me sadicarnot@gmail.com
